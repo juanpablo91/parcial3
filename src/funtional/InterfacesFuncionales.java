@@ -32,12 +32,6 @@ public class InterfacesFuncionales  {
         List<Producto> actualizar(List<Producto> inventario, String productoId, int cantidad);
     }
 
-
-
-
-
-
-
     /**
      * Interfaz para actualización de inventario
      */
